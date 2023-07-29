@@ -7,8 +7,6 @@
     padding-top: 18px;
 }
 
-
-
 .own-message {
     justify-content: flex-end;
     align-items: center;
@@ -18,4 +16,8 @@
 .other-message {
     justify-content: flex-start;
     align-items: center;
+}
+
+button {
+    background-color: grey;
 }
